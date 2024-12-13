@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Neelam Prasad
-- 👀 I’m interested in learning data analytics and visualization
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate with other programmers and experts on the related field
-- 📫 Reach me at my gmail - neelam.prasad057@gmail.com
-- 😄 Pronouns: she
+# 👋 Hi, I’m Neelam Prasad
 
+- 👀 **I’m passionate about learning Data Analytics and Data Visualization** to turn complex data into actionable insights.
+- 🌱 **Currently, I’m enhancing my Python skills**, focusing on libraries such as Pandas, Matplotlib, and Seaborn for data analysis and visualization.
+- 💞️ **I’m eager to collaborate** with other developers, data enthusiasts, and experts in the field of data science and analytics.
+- 📫 You can reach me at: [neelam.prasad057@gmail.com](mailto:neelam.prasad057@gmail.com).
+- 😄 **Pronouns**: She/Her
 
-<!---
-Neelam057/Neelam057 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
